@@ -3918,8 +3918,8 @@
 }
 #u1087 {
   position:absolute;
-  left:819px;
-  top:576px;
+  left:425px;
+  top:670px;
   width:60px;
   height:60px;
   font-size:16px;
@@ -3953,8 +3953,8 @@
 }
 #u1089 {
   position:absolute;
-  left:814px;
-  top:652px;
+  left:420px;
+  top:746px;
   width:61px;
   height:25px;
   font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
@@ -4002,8 +4002,8 @@
 }
 #u1091 {
   position:absolute;
-  left:816px;
-  top:696px;
+  left:422px;
+  top:790px;
   width:500px;
   height:44px;
   font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
@@ -4022,8 +4022,8 @@
 }
 #u1093 {
   position:absolute;
-  left:784px;
-  top:646px;
+  left:390px;
+  top:740px;
   width:0px;
   height:0px;
   font-family:'PingFangSC-Regular', 'PingFang SC';
@@ -4033,29 +4033,36 @@
 }
 #u1093_seg0 {
   position:absolute;
-  left:0px;
-  top:-4px;
-  width:65px;
-  height:8px;
-}
-#u1093_seg1 {
-  position:absolute;
-  left:57px;
-  top:-4px;
+  left:-4px;
+  top:0px;
   width:8px;
   height:10px;
 }
+#u1093_seg1 {
+  position:absolute;
+  left:-4px;
+  top:2px;
+  width:69px;
+  height:8px;
+}
 #u1093_seg2 {
   position:absolute;
-  left:-7px;
-  top:-10px;
+  left:57px;
+  top:6px;
+  width:8px;
+  height:4px;
+}
+#u1093_seg3 {
+  position:absolute;
+  left:-10px;
+  top:-7px;
   width:20px;
   height:20px;
 }
 #u1094 {
   position:absolute;
-  left:-16px;
-  top:-8px;
+  left:-22px;
+  top:-2px;
   width:100px;
   visibility:hidden;
   word-wrap:break-word;
