@@ -7315,9 +7315,9 @@
 #u17283 {
   position:absolute;
   left:11px;
-  top:80px;
+  top:70px;
   width:1275px;
-  height:639px;
+  height:649px;
   overflow:hidden;
   visibility:hidden;
 }
@@ -7326,7 +7326,7 @@
   left:0px;
   top:0px;
   width:1275px;
-  height:639px;
+  height:649px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
   -ms-overflow-y:hidden;
@@ -13594,4 +13594,109 @@
   top:1px;
   width:45px;
   word-wrap:break-word;
+}
+#u17658_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:20px;
+  height:20px;
+}
+#u17658 {
+  position:absolute;
+  left:202px;
+  top:153px;
+  width:20px;
+  height:20px;
+}
+#u17659 {
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:16px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u17658_ann {
+  position:absolute;
+  left:215px;
+  top:149px;
+  width:1px;
+  height:1px;
+}
+#u17661 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  height:0px;
+}
+#u17662_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(19, 193, 159, 0.8);
+  border:none;
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:24px;
+}
+#u17662 {
+  position:absolute;
+  left:807px;
+  top:90px;
+  width:70px;
+  height:30px;
+  font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:24px;
+}
+#u17663 {
+  position:absolute;
+  left:16px;
+  top:3px;
+  width:38px;
+  word-wrap:break-word;
+}
+#u17664 {
+  position:absolute;
+  left:807px;
+  top:90px;
+  width:70px;
+  height:30px;
+  overflow:hidden;
+}
+#u17664_state0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:70px;
+  height:30px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u17664_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
 }
