@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1302px;
+  width:1720px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -2769,7 +2769,7 @@
 #u61494 {
   position:absolute;
   left:1015px;
-  top:101px;
+  top:99px;
   width:43px;
   height:16px;
 }
@@ -2797,7 +2797,7 @@
 #u61496 {
   position:absolute;
   left:1013px;
-  top:51px;
+  top:49px;
   width:43px;
   height:16px;
 }
@@ -7011,7 +7011,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:107px;
+  width:168px;
   height:30px;
   background:inherit;
   background-color:rgba(33, 149, 235, 1);
@@ -7030,9 +7030,9 @@
 }
 #u61743 {
   position:absolute;
-  left:1170px;
-  top:92px;
-  width:107px;
+  left:1110px;
+  top:90px;
+  width:168px;
   height:30px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
   font-weight:400;
@@ -7046,7 +7046,7 @@
   position:absolute;
   left:16px;
   top:3px;
-  width:75px;
+  width:136px;
   word-wrap:break-word;
 }
 #u61745_div {
@@ -7070,8 +7070,8 @@
 }
 #u61745 {
   position:absolute;
-  left:1015px;
-  top:384px;
+  left:1332px;
+  top:291px;
   width:41px;
   height:25px;
   font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
@@ -7091,8 +7091,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:258px;
-  height:62px;
+  width:388px;
+  height:116px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
@@ -7119,10 +7119,10 @@
 }
 #u61747 {
   position:absolute;
-  left:1015px;
-  top:411px;
-  width:258px;
-  height:62px;
+  left:1332px;
+  top:318px;
+  width:388px;
+  height:116px;
   font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
@@ -7134,7 +7134,7 @@
   position:absolute;
   left:8px;
   top:4px;
-  width:250px;
+  width:380px;
   word-wrap:break-word;
 }
 #u61750 {
@@ -7162,9 +7162,9 @@
 }
 #u61751 {
   position:absolute;
-  left:11px;
+  left:10px;
   top:70px;
-  width:1276px;
+  width:1278px;
   height:688px;
   overflow:hidden;
   visibility:hidden;
@@ -7173,7 +7173,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1276px;
+  width:1278px;
   height:688px;
   -ms-overflow-x:hidden;
   overflow-x:hidden;
@@ -9492,7 +9492,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1276px;
+  width:1278px;
   height:688px;
   visibility:hidden;
   -ms-overflow-x:hidden;
@@ -10091,7 +10091,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1276px;
+  width:1278px;
   height:688px;
   visibility:hidden;
   -ms-overflow-x:hidden;
@@ -16832,7 +16832,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1276px;
+  width:1278px;
   height:688px;
   visibility:hidden;
   -ms-overflow-x:hidden;
@@ -22971,7 +22971,7 @@
   left:0px;
   top:0px;
   width:480px;
-  height:98px;
+  height:80px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   box-sizing:border-box;
@@ -23001,7 +23001,7 @@
   left:760px;
   top:527px;
   width:480px;
-  height:98px;
+  height:80px;
   font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
   font-weight:400;
   font-style:normal;
@@ -23016,7 +23016,51 @@
   width:472px;
   word-wrap:break-word;
 }
-#u62672_div {
+#u62672_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:25px;
+  height:25px;
+}
+#u62672 {
+  position:absolute;
+  left:1225px;
+  top:92px;
+  width:25px;
+  height:25px;
+}
+#u62673 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:21px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u62674_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:25px;
+  height:25px;
+}
+#u62674 {
+  position:absolute;
+  left:1225px;
+  top:145px;
+  width:25px;
+  height:25px;
+}
+#u62675 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:21px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u62676_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -23035,7 +23079,7 @@
   font-size:20px;
   color:#FF3399;
 }
-#u62672 {
+#u62676 {
   position:absolute;
   left:742px;
   top:415px;
@@ -23047,18 +23091,111 @@
   font-size:20px;
   color:#FF3399;
 }
-#u62673 {
+#u62677 {
   position:absolute;
   left:0px;
   top:0px;
   width:41px;
   white-space:nowrap;
 }
-#u62674_div {
+#u62678_div {
   position:absolute;
   left:0px;
   top:0px;
   width:258px;
+  height:44px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:2px;
+  border-style:solid;
+  border-color:rgba(255, 51, 153, 1);
+  border-top:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FF3399;
+  line-height:18px;
+}
+#u62678 {
+  position:absolute;
+  left:742px;
+  top:442px;
+  width:258px;
+  height:44px;
+  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FF3399;
+  line-height:18px;
+}
+#u62679 {
+  position:absolute;
+  left:8px;
+  top:4px;
+  width:250px;
+  word-wrap:break-word;
+}
+#u62680 {
+  position:absolute;
+  left:783px;
+  top:428px;
+  width:0px;
+  height:0px;
+}
+#u62680_seg0 {
+  position:absolute;
+  left:0px;
+  top:-4px;
+  width:11px;
+  height:8px;
+}
+#u62680_seg1 {
+  position:absolute;
+  left:3px;
+  top:-222px;
+  width:8px;
+  height:226px;
+}
+#u62680_seg2 {
+  position:absolute;
+  left:3px;
+  top:-222px;
+  width:34px;
+  height:8px;
+}
+#u62680_seg3 {
+  position:absolute;
+  left:22px;
+  top:-228px;
+  width:20px;
+  height:20px;
+}
+#u62681 {
+  position:absolute;
+  left:-43px;
+  top:-128px;
+  width:100px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u62682_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:388px;
   height:26px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -23084,11 +23221,11 @@
   color:#FF3399;
   line-height:18px;
 }
-#u62674 {
+#u62682 {
   position:absolute;
-  left:742px;
-  top:442px;
-  width:258px;
+  left:1332px;
+  top:451px;
+  width:388px;
   height:26px;
   font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
   font-weight:400;
@@ -23097,53 +23234,60 @@
   color:#FF3399;
   line-height:18px;
 }
-#u62675 {
+#u62683 {
   position:absolute;
   left:8px;
   top:4px;
-  width:250px;
+  width:380px;
   word-wrap:break-word;
 }
-#u62676 {
-  position:absolute;
-  left:783px;
-  top:428px;
-  width:0px;
-  height:0px;
-}
-#u62676_seg0 {
+#u62684_div {
   position:absolute;
   left:0px;
-  top:-4px;
-  width:11px;
-  height:8px;
+  top:0px;
+  width:388px;
+  height:26px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:2px;
+  border-style:solid;
+  border-color:rgba(255, 51, 153, 1);
+  border-top:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  border-top-left-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  border-bottom-left-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FF3399;
+  line-height:18px;
 }
-#u62676_seg1 {
+#u62684 {
   position:absolute;
-  left:3px;
-  top:-222px;
-  width:8px;
-  height:226px;
+  left:1312px;
+  top:90px;
+  width:388px;
+  height:26px;
+  font-family:'Microsoft Tai Le Regular', 'Microsoft Tai Le';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FF3399;
+  line-height:18px;
 }
-#u62676_seg2 {
+#u62685 {
   position:absolute;
-  left:3px;
-  top:-222px;
-  width:34px;
-  height:8px;
-}
-#u62676_seg3 {
-  position:absolute;
-  left:22px;
-  top:-228px;
-  width:20px;
-  height:20px;
-}
-#u62677 {
-  position:absolute;
-  left:-43px;
-  top:-128px;
-  width:100px;
-  visibility:hidden;
+  left:8px;
+  top:4px;
+  width:380px;
   word-wrap:break-word;
 }
